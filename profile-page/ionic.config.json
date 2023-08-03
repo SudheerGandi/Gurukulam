@@ -1,0 +1,7 @@
+{
+  "name": "profile page",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
